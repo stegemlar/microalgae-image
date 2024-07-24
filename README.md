@@ -11,3 +11,6 @@ The files are organized as follows:
 'Build XGBoost.ipynb' contains the construction, optimization, training, validation and evaluation (SHAP) of the Gradient Boosting Decision tree model (XGBoost)
 
 'Use XGBoost.ipynb' can be used to clasiify images using a trained XGBoost model
+
+'Sorted Dataset Haematococcus cell cycle' contains the dataset used for model training and validation 
+  The file contains one subfolder for each class ('Greenflag', 'Greenround', 'Others', 'Redflag' and 'Redround')
