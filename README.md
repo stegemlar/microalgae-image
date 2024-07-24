@@ -1,6 +1,6 @@
 # microalgae-image
 
-This respiratory contains the code and image material described in: Stegemüller et al. (2024) -  Online monitoring of Haematococcus lacustris cell cycle using machine and deep learning techniques
+This repository contains the code and image material described in: Stegemüller et al. (2024) -  Online monitoring of Haematococcus lacustris cell cycle using machine and deep learning techniques
 
 The files are organized as follows: 
 
