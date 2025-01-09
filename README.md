@@ -1,6 +1,6 @@
 # microalgae-image
 
-This repository contains the code and image material described in: Stegemüller et al. (2024) -  Online monitoring of Haematococcus lacustris cell cycle using machine and deep learning techniques
+This repository contains the code and image material described in: Stegemüller et al. (2025) -  [Online monitoring of Haematococcus lacustris cell cycle using machine and deep learning techniques](https://doi.org/10.1016/j.biortech.2024.131976)
 
 ![Graphical abstract](https://github.com/stegemlar/microalgae-image/blob/main/Graphical%20abstract-Version%202%20-%20separated.jpg)
 
